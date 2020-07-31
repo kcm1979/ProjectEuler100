@@ -1,9 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[19]:
-
-
 #!/usr/bin/python
 
 def multiplesOf3and5(number):
@@ -19,14 +14,6 @@ def multiplesOf3and5(number):
 
 multiplesOf3and5(1000)
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
