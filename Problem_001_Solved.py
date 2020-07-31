@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 #!/usr/bin/python
-
 def multiplesOf3and5(number):
     mySum = 0
     for x in range(1, number):
